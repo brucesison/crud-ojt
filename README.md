@@ -1,2 +1,0 @@
-# crud-ojt-bruce
- 
